@@ -1,2 +1,0 @@
-# Macowins
-TP diagnóstico Macowins
